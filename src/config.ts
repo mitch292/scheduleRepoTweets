@@ -1,1 +1,1 @@
-export const TWEET_REPOS_URL = "tweet-trending-repos.deno.dev";
+export const TWEET_REPOS_URL = "https://tweet-trending-repos.deno.dev";
